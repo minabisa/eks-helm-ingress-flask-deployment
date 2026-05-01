@@ -1,6 +1,6 @@
 # 🚀 EKS Helm Ingress Flask Deployment
 
-![Project Banner](images/project-banner.png)
+![Project Banner](images/project-banner.svg)
 
 ## 📌 Project Overview
 
@@ -283,7 +283,7 @@ helm history flask-app
 ![Nodes](images/nodes.png)
 
 ### 🔐 AWS Load Balancer Controller Running
-![ALB Controller](images/alb-controller.png)
+![ALB Controller](images/aws-load-balancer-controller.png)
 
 ### 📦 Helm Release Installed
 ![Helm Release](images/helm-release.png)

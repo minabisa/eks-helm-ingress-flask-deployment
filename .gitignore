@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Secrets and keys
+*.pem
+*.key
+*.crt
+*.kubeconfig
+credentials.csv
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+crash.*.log
+.terraform.lock.hcl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env/
+.venv/
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Helm
+*.tgz
